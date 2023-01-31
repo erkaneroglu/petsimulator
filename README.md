@@ -1,2 +1,2 @@
-# petsimulator
-Pet Simulator Website
+# LinGo: Learn Japanese Alphabet
+
